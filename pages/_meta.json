@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "X": "Get Started",
+  "contact": {
+    "title": "Home",
+    "type": "page",
+    "href": "https://www.tamagotchisreinvented.com/",
+    "newWindow": true
+  },
+  "Tamagotchi": {
+    "Create-pet": "Create a pet",
+    "breeding": "Create your own pet"
+  },
+  "help": "Help"
+}
