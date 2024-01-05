@@ -1,6 +1,7 @@
 {
   "index": "Introduction",
   "X": "Get Started",
+ 
   "contact": {
     "title": "Home",
     "type": "page",
@@ -11,5 +12,6 @@
     "Create-pet": "Create a pet",
     "breeding": "Create your own pet"
   },
-  "help": "Help"
+  "help": "Help",
+  "gameplay": "Gameplay"
 }
